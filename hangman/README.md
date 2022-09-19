@@ -1,3 +1,4 @@
+## TO VIEW CODE AND WORDBANK, VISIT SRC FILE!
 ## Description
 This code allows you to play a game of Hangman (word guessing game) agianst the computer. A random word is selected by the CPU, and you have to guess this word letter by letter. Good Luck!
 ## Important Notice
